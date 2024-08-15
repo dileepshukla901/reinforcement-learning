@@ -57,6 +57,7 @@ agent.fit(users, [1, 0, 1])  # Rewards based on user responses
 
 # Predict the best variant for a new user
 agent.predict([[27, 'female']])
+```
 
 ## 3. Methods of Evaluating Reinforcement Learning Models
 
